@@ -1,8 +1,15 @@
-## Hi there 👋
+## Hello
+<div id="header", align="left">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/claire-burrell-b990761a9/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
 
-<!--
-**claire-burrell/claire-burrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+
+
+
 
 Hello, I've just joined Github to build my programming skills and projects.
 
