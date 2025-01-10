@@ -34,6 +34,8 @@ I am graduate from the University of Bath with a Masters in Mathematics.
 
 ---
 
-### My stats :
+### My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claire-burrell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claire-burrell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claire-burrell&show_icons=true&theme=vision-friendly-dark)
