@@ -12,7 +12,7 @@
 
 
 ###  About Me :
-I am graduate from the University of Bath with a Masters in Mathematics.
+I am a recent graduate from the University of Bath with a Masters in Mathematics.
 - **Focus:** machine learning, data science and software development
 - **Current work:** smaller projects using python
 - **Goals:** learn to develop larger programs with version control and focus on efficienty and scalability
